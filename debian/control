@@ -2,7 +2,7 @@ Source: oswordpress-theme
 Section: web
 Priority: extra
 Maintainer: Jenkins Builder <jenkins@openshine.com>
-Build-Depends: cdbs, debhelper (>= 7.0.50~)
+Build-Depends: cdbs, debhelper (>= 7.0.50~), python-support (>= 0.90)
 Standards-Version: 3.9.1
 Homepage: http://www.openshine.com
 
