@@ -23,13 +23,13 @@ def build(bld):
     src_dir = bld.path.find_dir('.')
     img_dir = bld.path.find_dir('images')
 
-    bld.install_files('${DATADIR}/wordpress/wp-content/themes/${PACKAGE}', 
+    bld.install_files('${DATADIR}/wordpress/wp-content/themes/openshine', 
                       src_dir.ant_glob('*.php') + \
                       src_dir.ant_glob('*.css'), 
                       cwd=src_dir, relative_trick=True,
                       chmod=644)
 
-    bld.install_files('${DATADIR}/wordpress/wp-content/themes/${PACKAGE}/images', 
+    bld.install_files('${DATADIR}/wordpress/wp-content/themes/openshine/images', 
                       img_dir.ant_glob('**/*'), 
                       cwd=img_dir, relative_trick=True,
                       chmod=644)
