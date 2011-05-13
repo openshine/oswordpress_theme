@@ -78,21 +78,19 @@ function poptastic(url)
 				<ul class="clearfix d-b"> 
 					<li><a href="mailto:info@openshine.com" title="Contact us" class="contact">Contact us</a></li> 
 					<li><a href="https://twitter.com/#!/OpenShine" title="Join our Twitter" class="twitter">Twitter</a></li> 
-					<li><a href="#" title="Join our Identi.ca" class="identica">Identica</a></li> 
+					<li><a href="http://identi.ca/openshine" title="Join our Identi.ca" class="identica">Identica</a></li> 
 					<li><a href="http://www.linkedin.com/company/1220214" title="Join our Linkedin" class="linkedin">Linkedin</a></li> 
-					<li><a href="#" title="Go to your profile" class="user">Profile</a></li> 
-					<li><a href="#" title="Search" class="search">search</a></li>					
 				</ul> 
 			</div> 
 		</div><!--topHead--> 
 		<div class="bottomHead"> 
 			<nav> 
 				<ul> 
-					<li><a href="/" title="">Home</a></li> 
-					<li><a href="/company" title="">Company</a></li> 
-					<li><a href="/projects" title="">Projects</a></li> 
-					<li class="active"><a href="/live" title="">Live!</a></li> 
-					<li><a href="/contact" title="">Contact</a></li> 
+					<li><a href="http://www.openshine.com" title="">Home</a></li> 
+					<li><a href="http://www.openshine.com/company" title="">Company</a></li> 
+					<li><a href="http://www.openshine.com/projects" title="">Projects</a></li> 
+					<li class="active"><a href="http://www.openshine.com/live" title="">Live!</a></li> 
+					<li><a href="http://www.openshine.com/contact" title="">Contact</a></li> 
 				</ul> 
 			</nav> 
 			<p class="backTo"><a href="<?php echo home_url( '/' ); ?>" title="Back to Home"><span></span>Back to blog index</a></p> 
