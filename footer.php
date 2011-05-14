@@ -32,6 +32,7 @@
 		</div> 
 		<p class="copyright">Openshine Ltd (C) 2011. All rights reserved. Terms and conditions</p> 
 	</footer> 
+	<?php wp_footer(); ?>
 </div><!--wrapper--> 
 </body> 
 </html>
