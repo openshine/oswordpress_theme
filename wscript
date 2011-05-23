@@ -25,7 +25,8 @@ def build(bld):
 
     bld.install_files('${DATADIR}/wordpress/wp-content/themes/openshine', 
                       src_dir.ant_glob('*.php') + \
-                      src_dir.ant_glob('*.css'), 
+                      src_dir.ant_glob('*.css') + \
+                      src_dir.ant_glob('*.ico'), 
                       cwd=src_dir, relative_trick=True,
                       chmod=644)
 
