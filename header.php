@@ -37,6 +37,7 @@
 <link rel="profile" href="http://gmpg.org/xfn/11" />
 <link rel="stylesheet" type="text/css" href="<?php echo get_settings('siteurl') ?>/wp-content/themes/openshine/reset.css" /> 
 <link rel="stylesheet" type="text/css" href="<?php echo get_settings('siteurl') ?>/wp-content/themes/openshine/style.css" /> 
+<link rel="shortcut icon" href="<?php echo get_settings('siteurl') ?>/wp-content/themes/openshine/favicon.ico" /> 
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
 <!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="<?php echo get_settings('siteurl') ?>/wp-content/themes/openshine/ie_style.css" /><![endif]--> 
 <!--[if IE 8]><link rel="stylesheet" type="text/css" href="<?php echo get_settings('siteurl') ?>/wp-content/themes/openshine/ie8_style.css" /><![endif]--> 
