@@ -81,6 +81,7 @@ function poptastic(url)
 					<li><a href="https://twitter.com/#!/OpenShine" title="Join our Twitter" class="twitter">Twitter</a></li> 
 					<li><a href="http://identi.ca/openshine" title="Join our Identi.ca" class="identica">Identica</a></li> 
 					<li><a href="http://www.linkedin.com/company/1220214" title="Join our Linkedin" class="linkedin">Linkedin</a></li> 
+					<li><a href="http://www.github.com/openshine" title="Join our github" class="github">GitHub</a></li> 
 				</ul> 
 			</div> 
 		</div><!--topHead--> 
