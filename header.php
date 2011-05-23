@@ -1,13 +1,10 @@
 <?php
 /**
- * The Header for our theme.
- *
- * Displays all of the <head> section and everything up till <div id="main">
- *
- * @package WordPress
- * @subpackage Twenty_Ten
- * @since Twenty Ten 1.0
- */
+    * @package WordPress 
+    * @subpackage OpenShine Theme 
+    * @copyright (C) OpenShine SL 
+    * @license GNU General Public License 3, see license.txt
+    */
 ?>
 <!doctype html> 
 <html <?php language_attributes(); ?>> 
