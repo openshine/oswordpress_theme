@@ -10,7 +10,6 @@
 	<footer id="foot"> 
 		<div class="f-l"> 
 			<ul class="localization"> 
-				<li class="phone"><span></span> 912 345 345  -  934 765 654</li> 
 				<li class="address"><span></span> Calle Carranza 7. Piso 2 Puerta 1. Madrid (Espa?a)</li> 
 				<li class="mail"><span></span> info@openshine.com</li> 
 			</ul> 
