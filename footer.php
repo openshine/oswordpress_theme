@@ -10,7 +10,7 @@
 	<footer id="foot"> 
 		<div class="f-l"> 
 			<ul class="localization"> 
-				<li class="address"><span></span> Calle Carranza 7. Piso 2 Puerta 1. Madrid (Espa?a)</li> 
+				<li class="address"><span></span> C/ Julián Camarillo, 47. Bloque A, Oficina 006. 28037 Madrid (Spain)</li> 
 				<li class="mail"><span></span> info@openshine.com</li> 
 			</ul> 
 		</div> 
