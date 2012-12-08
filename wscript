@@ -2,7 +2,7 @@
 
 import os
 
-VERSION = '0.0'
+VERSION = '1.0.0'
 APPNAME = 'oswordpress-theme'
 
 top = '.'

@@ -1,0 +1,19 @@
+Version 1.0.0
+===============================
+
+New Features
+-------------------------------
+  * Cambiada la dirección a la nueva oficina de Julián Camarillo
+  * Update the CSS to show the github icon
+  * License the php files
+  * Added the GPL3 license file
+  * Added the github link in the header
+  * Add favicon to wscript
+  * Added favicon
+  * Added <?php wp_footer(); ?> in footer.php
+  * Fixed header links
+  * change theme name from oswordpress-theme -> openshine
+  * add correct wordpress themes paths
+  * Added google analytics code
+  * add python as build depends
+
